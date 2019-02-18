@@ -1,3 +1,0 @@
-/home/nanoatic/Minysweepy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nanoatic/Minysweepy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nanoatic/Minysweepy/cmake-build-debug/CMakeFiles/Minysweepy.dir
