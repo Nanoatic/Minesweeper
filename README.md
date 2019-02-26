@@ -14,3 +14,5 @@ Copy all dll files placed in  ``libs/SDL2-2.0.9-Mingw/x86_64-w64-mingw32/bin`` b
 
 ## Screenshots
 
+![alt text](https://github.com/Nanoatic/MinySweepy/blob/master/screenshots/Capture0.PNG)
+![alt text](https://github.com/Nanoatic/MinySweepy/blob/master/screenshots/Capture1.PNG)
